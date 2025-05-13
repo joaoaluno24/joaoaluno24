@@ -1,13 +1,5 @@
-- 👋 Hi, I’m @joaoaluno24 
-- 👀 I’m interested in Learning
-- 🌱 I’m currently learning Adm
-- 💞️ I’m looking to collaborate on Whatever need
-- 📫 How to reach me: Here
-- 😄 Pronouns: ---
-- ⚡ Fun fact: This account is supposed to be temporary
-
 - Olá, seja bem vindo!
-- Se chegou até aqui, parabéns! Procura bem!
+- Se chegou até aqui, parabéns! Você procura bem!
 
 - Ainda não tem nada por aqui.
 - Se esta de passagem ou leu até aqui, tome esse [checkpoint](https://github.com/checkpoint-restore/criu)
