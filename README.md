@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Adm
 - 💞️ I’m looking to collaborate on Whatever need
 - 📫 How to reach me: Here
-- 😄 Pronouns: :)
+- 😄 Pronouns: ---
 - ⚡ Fun fact: This account is supposed to be temporary
 
 - Olá, seja bem vindo!
